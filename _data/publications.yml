@@ -21,7 +21,7 @@
     - "Ines Lindner"
   year: 2025
   type: working-paper
-  venue: "Working Paper"
+  venue: "Manuscript upon request"
 
 - title: "A Practical Guide to Interpretable Role-Based Clustering in Multi-Layer Financial Networks"
   authors:
@@ -31,7 +31,7 @@
     - "Bernd Heidergott"
   year: 2025
   type: working-paper
-  venue: "Working Paper"
+  venue: "Manuscript upon request"
 
 - title: "Community Structures in Markov Influence Graphs with Heterogeneous Holding Times"
   authors:
@@ -39,5 +39,5 @@
     - "Bernd Heidergott"
     - "Ines Lindner"
   year: 2025
-  type: working-paper
-  venue: "Working Paper"
+  type: work-in-progress
+  venue: "Work in Progress"
