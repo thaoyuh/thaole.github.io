@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-text">
+        &copy; {{ 'now' | date: "%Y" }} {{ site.author }}. Built with Jekyll.
+      </div>
+      <div class="footer-links">
+        <a href="mailto:{{ site.email }}">Email</a>
+        <a href="https://scholar.google.com/citations?user={{ site.google_scholar }}" target="_blank" rel="noopener">Scholar</a>
+        <a href="https://orcid.org/{{ site.orcid }}" target="_blank" rel="noopener">ORCID</a>
+        <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,43 @@
+# Research Projects
+# =================
+
+- title: "Random Walks with Traversal Costs: Variance-Aware Performance Analysis and Network Optimization"
+  authors:
+    - "Thao Le"
+    - "Robbert van der Burg"
+    - "Bernd Heidergott"
+    - "Ines Lindner"
+    - "Alessandro Zocca"
+  year: 2026
+  type: preprint
+  venue: "arXiv"
+  arxiv: "2603.26414"
+
+- title: "Growth in Saturated Markets: A Markov-based Network Optimization Approach"
+  authors:
+    - "Thao Le"
+    - "Gui Liberali"
+    - "Bernd Heidergott"
+    - "Ines Lindner"
+  year: 2025
+  type: working-paper
+  venue: "Working Paper"
+
+- title: "A Practical Guide to Interpretable Role-Based Clustering in Multi-Layer Financial Networks"
+  authors:
+    - "Christian Franssen"
+    - "Thao Le"
+    - "Iman van Lelyveld"
+    - "Bernd Heidergott"
+  year: 2025
+  type: working-paper
+  venue: "Working Paper"
+
+- title: "Community Structures in Markov Influence Graphs with Heterogeneous Holding Times"
+  authors:
+    - "Thao Le"
+    - "Bernd Heidergott"
+    - "Ines Lindner"
+  year: 2025
+  type: working-paper
+  venue: "Working Paper"

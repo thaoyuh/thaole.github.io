@@ -1,0 +1,51 @@
+# Site settings
+title: Thao Le
+description: PhD Candidate in Applied Mathematics | Vrije Universiteit Amsterdam
+author: Thao Le
+email: t.p.t.le@vu.nl
+baseurl: "/thaole.github.io" # Subfolder for GitHub Pages
+url: "https://thaoyuh.github.io"
+
+# Social/Academic links
+linkedin_username: thao-le-a9ab70165
+github_username: thaoyuh
+orcid: "0009-0008-1891-2346"
+google_scholar: "GNGG6AYAAAAJ"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins (GitHub Pages compatible)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  news:
+    output: false
+    sort_by: date
+  publications:
+    output: false
+    sort_by: year
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: null
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: null
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
