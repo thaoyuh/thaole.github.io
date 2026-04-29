@@ -232,4 +232,4 @@ This template is free to use and modify for your personal academic website.
 
 ---
 
-Built with ❤️ using Jekyll • Designed for academics
+Built using Jekyll • Designed for academics
