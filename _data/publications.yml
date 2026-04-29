@@ -21,7 +21,15 @@
     - "Ines Lindner"
   year: 2025
   type: working-paper
-  venue: "Manuscript upon request"
+  venue: "Submitted (manuscript on request)"
+
+- title: "Optimizing the Surprise Element of Surveillance Policies"
+  authors:
+    - "Thao Le"
+    - "Bernd Heidergott"
+  year: 2026
+  type: working-paper
+  venue: "Submitted (manuscript on request)"
 
 - title: "A Practical Guide to Interpretable Role-Based Clustering in Multi-Layer Financial Networks"
   authors:
@@ -31,7 +39,7 @@
     - "Bernd Heidergott"
   year: 2025
   type: working-paper
-  venue: "Manuscript upon request"
+  venue: "Working paper"
 
 - title: "Community Structures in Markov Influence Graphs with Heterogeneous Holding Times"
   authors:
