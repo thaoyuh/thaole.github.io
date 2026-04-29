@@ -425,6 +425,32 @@ strong {
   color: var(--charcoal);
 }
 
+.news-tag.preprint {
+  background: #6b5b8a;
+  color: var(--cream);
+}
+
+.news-tag.workshop {
+  background: #3a7a6b;
+  color: var(--cream);
+}
+
+.news-tag.grant {
+  background: #c9a227;
+  color: var(--charcoal);
+}
+
+.news-tag.media {
+  background: #c26a4a;
+  color: var(--cream);
+}
+
+.news-tag.service {
+  background: #5a7a9b;
+  color: var(--cream);
+}
+
+
 /* ---------- Publications Page ---------- */
 .publications-header {
   margin-bottom: var(--space-xl);
